@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "957d7625-efbf-4a48-9817-4a605f4b80ba": {
+      "ProjectGuid": "957d7625-efbf-4a48-9817-4a605f4b80ba",
+      "DisplayName": "TruckDelivery.Logic",
+      "ColorIndex": 0
+    },
+    "8cdd9014-e91a-4bef-ad73-1a4b72829e60": {
+      "ProjectGuid": "8cdd9014-e91a-4bef-ad73-1a4b72829e60",
+      "DisplayName": "TruckDelivery.Common",
+      "ColorIndex": 1
+    },
+    "5d0d5e6e-f4af-4bf0-962f-56b7d433c8b8": {
+      "ProjectGuid": "5d0d5e6e-f4af-4bf0-962f-56b7d433c8b8",
+      "DisplayName": "TruckDelivery.ConApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TruckDelivery.ConApp/1.0.0": {
+        "dependencies": {
+          "TruckDelivery.Logic": "1.0.0"
+        },
+        "runtime": {
+          "TruckDelivery.ConApp.dll": {}
+        }
+      },
+      "TruckDelivery.Common/1.0.0": {
+        "runtime": {
+          "TruckDelivery.Common.dll": {}
+        }
+      },
+      "TruckDelivery.Logic/1.0.0": {
+        "dependencies": {
+          "TruckDelivery.Common": "1.0.0"
+        },
+        "runtime": {
+          "TruckDelivery.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TruckDelivery.ConApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TruckDelivery.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TruckDelivery.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
